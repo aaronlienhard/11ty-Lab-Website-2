@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "eleventy starter",
     "scripts": {
-        "start": "npm run build:eleventy",
+        "start": "npm run dev",
         "clean": "rm -rf _site",
         "hasher": "node csshash.js",
         "cssmin": "node cssmin.js",
