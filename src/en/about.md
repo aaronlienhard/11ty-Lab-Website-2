@@ -1,10 +1,10 @@
 ---
-layout: layouts/about.njk
-permalink: /about/
+layout: layouts/post.njk
+title: About Me
+templateClass: tmpl-post
 eleventyNavigation:
-    key: about
-    title: about
-    order: 2
+  key: About Me
+  order: 3
 ---
 
-TODO: write about yourself.
+I am writing about topics from my IST 402 class at Penn State.

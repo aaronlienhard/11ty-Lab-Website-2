@@ -1,5 +1,5 @@
 const url = process.env.URL ?? "https://example.com";
-const title = "Eleventy starter";
+const title = "Aaron Lienhard's Blog";
 
 module.exports = {
     en: {
@@ -22,7 +22,7 @@ module.exports = {
         },
         author: {
             url,
-            name: "Your name",
+            name: "Aaron Lienhard",
             email: "example@mail.com",
         },
         posts: {
